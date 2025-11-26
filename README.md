@@ -16,15 +16,17 @@
 
 # 🧑‍💻 About Me  
 
-I build intelligent systems that see, understand, and react to the world. My work blends **deep learning**, **computer vision**, and **large scale ML engineering** to solve high impact real world problems.
+I build intelligent systems that see, understand, and react to the world. My work blends **deep learning**, **computer vision**, and **large-scale ML engineering** to solve high-impact real-world problems. 
 
 I enjoy taking ideas from research and turning them into robust pipelines that run on real hardware, real users, and real constraints.
 
-🧩 Seven years of hands on engineering  
-📷 Experience across 2D, 3D, temporal and multimodal ML  
-🎓 Research background from LUMS  
-🔍 Strong focus on reproducibility and clean engineering  
-🌍 Collaborations with WWF and IWMB on wildlife conservation  
+🧩 Seven years of hands-on engineering
+📷 Experience across 2D, 3D, temporal and multimodal ML
+🎓 Research background from Computer Vision and Graphics Lab (CVGL)
+🔍 Strong focus on reproducibility and clean engineering
+🌍 Collaborations with WWF and IWMB on wildlife conservation
+🐌 I support [slow science](http://slow-science.org/).
+
 
 ---
 
