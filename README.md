@@ -29,57 +29,56 @@ I enjoy taking ideas from research and turning them into robust pipelines that r
 🌍 Collaborations with WWF and IWMB on wildlife conservation\
 🐌 I support [slow science](http://slow-science.org/)
 
-
 ---
 
 # 🚀 What I Do  
 
 ### 🔵 Computer Vision Engineering  
 - Driver monitoring and safety features  
-- Object detection, segmentation and classification  
-- Multi camera surveillance and tracking  
-- Efficient inference on edge devices like Jetson Nano  
+- Object detection, segmentation, and classification  
+- Multi-camera surveillance and tracking  
+- Model optimizations for inference on edge devices 
 
 ### 🟣 Deep Learning Research  
 - Graph Neural Networks for remote sensing  
-- Spatio temporal modeling  
+- Spatio-temporal modeling  
 - NeRF feasibility studies  
-- Representation learning for low data settings  
+- Representation learning for low data settings
 
 ### 🟢 ML Systems and Pipelines  
 - Distributed training on EC2  
 - Dataset pipelines at scale  
-- Real world deployment for production  
-- Automated data ingestion, ETL and monitoring  
+- Real-world deployment for production  
+- Automated data ingestion, ETL, and monitoring  
 
 ---
 
 # 🏆 Featured Projects  
 
 ### 📌 Driver Monitoring Intelligence  
-Models for distraction, mobile phone usage, drowsiness and unsafe behaviors.  
-Real time performance with unified multi task architecture.
+Models for distraction, mobile phone usage, drowsiness, and unsafe behaviors.  
+Real-time performance with unified multi-task architecture.
 
 ### 📌 Remote Sensing with GNNs  
-Published work in AAAI 2023 Fall Symposium.  
+Published work in the AAAI 2023 Fall Symposium.  
 Designed T RAG to encode temporal information through region graphs.
 
 ### 📌 Wildlife Early Warning System  
-IoT powered camera traps, real time inference, solar powered nodes, Django backends, and alerting systems for remote habitats.
+IoT-powered camera traps, real-time inference, solar-powered nodes, Django backends, and alerting systems for remote habitats.
 
 ### 📌 3D Vision for Telecom Assets  
 GNNs trained on 3D point clouds reconstructed from 2D imagery.  
 Evaluated NeRFs for industrial use cases.
 
 ### 📌 Mall Surveillance MVP  
-Multi camera geometry fused with YOLO based detection for tracking and spatial reasoning.
+Multi-camera geometry fused with YOLO-based detection for tracking and spatial reasoning.
 
 ---
 
 # 📚 Research Highlights  
 
 ### 📄 **AAAI Publication (2023)**  
-**Spatio Temporal driven Attention Graph Neural Network with Block Adjacency Matrix**  
+**Spatio-Temporal Driven Attention Graph Neural Network with Block Adjacency Matrix**  
 Land use change detection with graph neural networks.
 
 ### 🎓 **MS Thesis at LUMS**  
@@ -87,6 +86,29 @@ Developed T RAG for temporal encoding in satellite imagery pipelines.
 
 ### 🧑‍🏫 Teaching Assistant  
 Deep Learning TA for more than 80 students at LUMS. Helped shape assignments, quizzes and tutorials.
+
+---
+
+# 🌟 Selected Repositories  
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **driver-monitoring** | Unified object detection and behavior classification for road safety | PyTorch, CV, Edge Inference |
+| **remote sensing gnn** | Temporal GNN for land use change detection | GNNs, PyTorch Geometric |
+| **wildlife early warning** | IoT trap system for endangered species | Jetson Nano, Django, EfficientNet |
+| **nerf research** | Experiments on NeRF for structured scenes | NeRF, 3D Learning |
+| **surveillance mvp** | Multi camera CV surveillance MVP | YOLO, Geometry |
+
+---
+
+# 🎯 Current Research Interests  
+
+- Multimodal perception for safety systems  
+- Self-supervised learning for vision  
+- Spatio-temporal modeling  
+- 3D scene reconstruction  
+- Efficient architectures for edge devices  
+- Reliability, calibration, and model trustworthiness  
 
 ---
 
@@ -109,41 +131,17 @@ Deep Learning TA for more than 80 students at LUMS. Helped shape assignments, qu
 
 ---
 
-# 🌟 Selected Repositories  
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **driver-monitoring** | Unified object detection and behavior classification for road safety | PyTorch, CV, Edge Inference |
-| **remote sensing gnn** | Temporal GNN for land use change detection | GNNs, PyTorch Geometric |
-| **wildlife early warning** | IoT trap system for endangered species | Jetson Nano, Django, EfficientNet |
-| **nerf research** | Experiments on NeRF for structured scenes | NeRF, 3D Learning |
-| **surveillance mvp** | Multi camera CV surveillance MVP | YOLO, Geometry |
-
----
-
-# 🎯 Current Research Interests  
-
-- Multimodal perception for safety systems  
-- Self supervised learning for vision  
-- Spatio temporal modeling  
-- 3D scene reconstruction  
-- Efficient architectures for edge devices  
-- Reliability, calibration and model trustworthiness  
-
----
-
 # 🤝 Collaborations  
 
 I love teaming up for:  
 - Applied deep learning research  
 - Open source CV tools  
-- Vision language and multimodal projects  
+- Vision, language, and multimodal projects  
 - Scientific implementations  
 - Wildlife conservation tech  
-- Real world detection and tracking systems  
+- Real-world detection and tracking systems  
 
 If your project needs strong engineering and smart vision systems, I would love to connect.
-
 ---
 
 <div align="center">
