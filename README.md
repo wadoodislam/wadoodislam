@@ -7,9 +7,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wadood%20Islam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wadood-islam)
 [![GitHub](https://img.shields.io/badge/GitHub-wadoodislam-black?style=flat-square&logo=github)](https://github.com/wadoodislam)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=p-ilsOsAAAAJ&hl=en)
+<!-- 
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium)](https://medium.com/@wadoodamer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-22B8F0?style=flat-square&logo=kaggle)](https://www.kaggle.com/kenjee)
-
+-->
 </div>
 
 ---
