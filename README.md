@@ -75,13 +75,13 @@ Multi-camera geometry fused with YOLO-based detection for tracking and spatial r
 
 ---
 
-# 📚 Research Highlights  
+# 📚 Research Activities  
 
-### 📄 **AAAI Publication (2023)**  
+### 📄 **AAAI Publication (2023)**
 **Spatio-Temporal Driven Attention Graph Neural Network with Block Adjacency Matrix**  
 Land use change detection with graph neural networks.
 
-### 🎓 **MS Thesis at LUMS**  
+### 🎓 **MS Thesis at LUMS**
 Developed T RAG for temporal encoding in satellite imagery pipelines.
 
 ### 🧑‍🏫 Teaching Assistant  
