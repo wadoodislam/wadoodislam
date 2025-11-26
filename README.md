@@ -20,12 +20,12 @@ I build intelligent systems that see, understand, and react to the world. My wor
 
 I enjoy taking ideas from research and turning them into robust pipelines that run on real hardware, real users, and real constraints.
 
-🧩 Seven years of hands-on engineering
-📷 Experience across 2D, 3D, temporal and multimodal ML
-🎓 Research background from Computer Vision and Graphics Lab (CVGL)
-🔍 Strong focus on reproducibility and clean engineering
-🌍 Collaborations with WWF and IWMB on wildlife conservation
-🐌 I support [slow science](http://slow-science.org/)
+🧩 Seven years of hands-on engineering\
+📷 Experience across 2D, 3D, temporal and multimodal ML\
+🎓 Research background from Computer Vision and Graphics Lab (CVGL)\
+🔍 Strong focus on reproducibility and clean engineering\
+🌍 Collaborations with WWF and IWMB on wildlife conservation\
+🐌 I support [slow science](http://slow-science.org/)\
 
 
 ---
