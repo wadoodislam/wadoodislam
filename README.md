@@ -20,6 +20,11 @@
 
 I build intelligent systems that see, understand, and react to the world. My work blends **deep learning**, **computer vision**, and **large-scale ML engineering** to solve high-impact real-world problems. 
 
+###What I Am Learning
+
+I regularly explore new ideas in deep learning, computer vision, and optimization. I enjoy reading research papers and turning theoretical concepts into working prototypes.
+Deep Learning TA for more than 80 students at LUMS. Helped shape assignments, quizzes, and tutorials.
+
 I enjoy taking ideas from research and turning them into robust pipelines that run on real hardware, real users, and real constraints.
 
 🧩 Seven years of hands-on engineering\
@@ -75,17 +80,15 @@ Multi-camera geometry fused with YOLO-based detection for tracking and spatial r
 
 ---
 
-# 📚 Research Activities  
+# 📄 Publications
 
-### 📄 **AAAI Publication (2023)**
-**Spatio-Temporal Driven Attention Graph Neural Network with Block Adjacency Matrix**  
-Land use change detection with graph neural networks.
+**Spatio Temporal Driven Attention Graph Neural Network with Block Adjacency Matrix (STAG NN BA)** \
+**Authors:** [U. Nazir](https://cvlab.lums.edu.pk/usmannazir/), [W. Islam](https://cvlab.lums.edu.pk/wadood-islam/), and [M. Taj](https://cvlab.lums.edu.pk/murtazataj/)
 
-### 🎓 **MS Thesis at LUMS**
-Developed T RAG for temporal encoding in satellite imagery pipelines.
+The work proposed a spatiotemporal attention-based graph neural network model designed for land-use change detection across temporal satellite imagery. It was presented at the [AAAI 2023 Fall Symposium Series](https://www.climatechange.ai/events/aaaifss2023).
 
-### 🧑‍🏫 Teaching Assistant  
-Deep Learning TA for more than 80 students at LUMS. Helped shape assignments, quizzes and tutorials.
+[![ArXiv](https://img.shields.io/badge/Paper-ArXiv%202303.14322-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2303.14322)
+[![Project Page](https://img.shields.io/badge/Project%20Page-CVGL%20Lab-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://cvlab.lums.edu.pk/stagnn-ba/)
 
 ---
 
@@ -114,13 +117,13 @@ Deep Learning TA for more than 80 students at LUMS. Helped shape assignments, qu
 
 # 🧰 Tech Stack and Tools  
 
-**Languages:** Python, C++, Javascript, SQL  
-**Frameworks:** PyTorch, TensorFlow, Django, React  
-**Vision Models:** YOLO v3 and v5, EfficientNet, U Net, MegaDetector  
-**GNN Models:** GCN, GATv2, MoNet  
-**3D and Novel View:** NeRF experiments  
+**Languages:** Python, C++, Javascript, SQL
+**Frameworks:** PyTorch, TensorFlow, Django, React
+**Vision Models:** YOLO v3 and v5, EfficientNet, U-Net, MegaDetector  
+**GNN Models:** GCN, GATv2, MoNet, SAGE-Net
+**3D and Novel View:** GroupFree3D, Photogrammetry, Structure From Motion
 **Infra:** AWS EC2, Docker, Scrapy, Jetson Nano  
-**Specialties:** Data pipelines, edge inference, geometric learning, multimodal perception  
+**Specialties:** Data pipelines, edge inference, geometric learning, multimodal learning, perception  
 
 <div align="center">
 
